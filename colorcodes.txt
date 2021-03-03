@@ -1,0 +1,8 @@
+color codes
+sky blue #3AB5B5	rgb(58, 181, 181)
+dark	#000000	rgb(0, 0, 0)
+light	#FFFFFF	rgb(255, 255, 255)
+light secondary	#E8DFDF	rgb(232, 223, 223)
+sky blue secondary	#DCF5F5	rgb(220, 245, 245)
+blue shade 	#017373	rgb(1, 115, 115)
+dark grey		#454A4A	rgb(69, 74, 74)
